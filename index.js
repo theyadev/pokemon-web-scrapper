@@ -12,7 +12,7 @@ const fs = require("fs");
     let y = [];
     for (
       let i = 1;
-      i < document.querySelector(".mw-category").childNodes.length;
+      i < 2;//document.querySelector(".mw-category").childNodes.length;
       i++
     ) {
       document
@@ -53,6 +53,8 @@ const fs = require("fs");
         aliase: res.englishName,
         image: j[0],
       });
+
+      await page.close()
     }
     return pokemonsSrc;
   }
