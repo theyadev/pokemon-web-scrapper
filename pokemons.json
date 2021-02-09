@@ -1,1 +1,777 @@
-[{"name":"Abo","aliase":"Ekans","image":"https://www.pokepedia.fr/images/5/56/Abo-RFVF.png"},{"name":"Abra","aliase":"Abra","image":"https://www.pokepedia.fr/images/3/36/Abra-RFVF.png"},{"name":"A%C3%A9romite","aliase":"Venomoth","image":"https://www.pokepedia.fr/images/0/0f/A%C3%A9romite-RFVF.png"},{"name":"Akwakwak","aliase":"Golduck","image":"https://www.pokepedia.fr/images/6/6e/Akwakwak-RFVF.png"},{"name":"Alakazam","aliase":"Alakazam","image":"https://www.pokepedia.fr/images/6/68/Alakazam-RFVF.png"},{"name":"Amonistar","aliase":"Omastar","image":"https://www.pokepedia.fr/images/f/f2/Amonistar-RFVF.png"},{"name":"Amonita","aliase":"Omanyte","image":"https://www.pokepedia.fr/images/8/83/Amonita-RFVF.png"},{"name":"Aquali","aliase":"Vaporeon","image":"https://www.pokepedia.fr/images/6/6b/Aquali-RFVF.png"},{"name":"Arbok","aliase":"Arbok","image":"https://www.pokepedia.fr/images/7/7f/Arbok-RFVF.png"},{"name":"Arcanin","aliase":"Arcanine","image":"https://www.pokepedia.fr/images/7/7e/Arcanin-RFVF.png"},{"name":"Artikodin","aliase":"Articuno","image":"https://www.pokepedia.fr/images/b/bb/Artikodin-RFVF.png"},{"name":"Aspicot","aliase":"Weedle","image":"https://www.pokepedia.fr/images/9/9b/Aspicot-RFVF.png"},{"name":"Boustiflor","aliase":"Weepinbell","image":"https://www.pokepedia.fr/images/f/f5/Boustiflor-RFVF.png"},{"name":"Bulbizarre","aliase":"Bulbasaur","image":"https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png"},{"name":"Projet:Bulbizarre","aliase":"Bulbasaur","image":"https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png"},{"name":"Projet:Bulbizarre/2","aliase":"Bulbasaur","image":"https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png"},{"name":"Canarticho","aliase":"Farfetch’d","image":"https://www.pokepedia.fr/images/0/07/Canarticho-RFVF.png"},{"name":"Caninos","aliase":"Growlithe","image":"https://www.pokepedia.fr/images/e/e2/Caninos-RFVF.png"},{"name":"Carabaffe","aliase":"Wartortle","image":"https://www.pokepedia.fr/images/2/2a/Carabaffe-RFVF.png"},{"name":"Carapuce","aliase":"Squirtle","image":"https://www.pokepedia.fr/images/c/cc/Carapuce-RFVF.png"},{"name":"Chenipan","aliase":"Caterpie","image":"https://www.pokepedia.fr/images/c/c7/Chenipan-RFVF.png"},{"name":"Ch%C3%A9tiflor","aliase":"Bellsprout","image":"https://www.pokepedia.fr/images/f/f9/Ch%C3%A9tiflor-RFVF.png"},{"name":"Chrysacier","aliase":"Metapod","image":"https://www.pokepedia.fr/images/6/6c/Chrysacier-RFVF.png"},{"name":"Coconfort","aliase":"Kakuna","image":"https://www.pokepedia.fr/images/b/b6/Coconfort-RFVF.png"},{"name":"Colossinge","aliase":"Primeape","image":"https://www.pokepedia.fr/images/d/df/Colossinge-RFVF.png"},{"name":"Crustabri","aliase":"Cloyster","image":"https://www.pokepedia.fr/images/8/84/Crustabri-RFVF.png"},{"name":"Dardargnan","aliase":"Beedrill","image":"https://www.pokepedia.fr/images/e/ee/Dardargnan-RFVF.png"},{"name":"Dodrio","aliase":"Dodrio","image":"https://www.pokepedia.fr/images/2/2e/Dodrio-RFVF.png"},{"name":"Doduo","aliase":"Doduo","image":"https://www.pokepedia.fr/images/2/2a/Doduo-RFVF.png"},{"name":"Dracaufeu","aliase":"Charizard","image":"https://www.pokepedia.fr/images/1/17/Dracaufeu-RFVF.png"},{"name":"Draco","aliase":"Dragonair","image":"https://www.pokepedia.fr/images/d/d1/Draco-RFVF.png"},{"name":"Dracolosse","aliase":"Dragonite","image":"https://www.pokepedia.fr/images/8/87/Dracolosse-RFVF.png"},{"name":"Ectoplasma","aliase":"Gengar","image":"https://www.pokepedia.fr/images/8/8d/Ectoplasma-RFVF.png"},{"name":"%C3%89lecthor","aliase":"Zapdos","image":"https://www.pokepedia.fr/images/8/81/%C3%89lecthor-RFVF.png"},{"name":"%C3%89lectrode","aliase":"Electrode","image":"https://www.pokepedia.fr/images/0/03/%C3%89lectrode-RFVF.png"},{"name":"%C3%89lektek","aliase":"Electabuzz","image":"https://www.pokepedia.fr/images/1/18/%C3%89lektek-RFVF.png"},{"name":"Empiflor","aliase":"Victreebel","image":"https://www.pokepedia.fr/images/4/41/Empiflor-RFVF.png"},{"name":"%C3%89voli","aliase":"Eevee","image":"https://www.pokepedia.fr/images/8/8b/%C3%89voli-RFVF.png"},{"name":"Excelangue","aliase":"Lickitung","image":"https://www.pokepedia.fr/images/7/74/Excelangue-RFVF.png"},{"name":"Fantominus","aliase":"Gastly","image":"https://www.pokepedia.fr/images/9/9f/Fantominus-RFVF.png"},{"name":"F%C3%A9rosinge","aliase":"Mankey","image":"https://www.pokepedia.fr/images/8/8e/F%C3%A9rosinge-RFVF.png"},{"name":"Feunard","aliase":"Ninetales","image":"https://www.pokepedia.fr/images/0/0c/Feunard-RFVF.png"},{"name":"Flagadoss","aliase":"Slowbro","image":"https://www.pokepedia.fr/images/b/b4/Flagadoss-RFVF.png"},{"name":"Florizarre","aliase":"Venusaur","image":"https://www.pokepedia.fr/images/4/42/Florizarre-RFVF.png"},{"name":"Florizarre_Gigamax","aliase":"Gigantamax Venusaur","image":"https://www.pokepedia.fr/images/2/2e/Florizarre_%28Gigamax%29-EB.png"},{"name":"Galopa","aliase":"Rapidash","image":"https://www.pokepedia.fr/images/9/9c/Galopa-RFVF.png"},{"name":"Goupix","aliase":"Vulpix","image":"https://www.pokepedia.fr/images/f/f6/Goupix-RFVF.png"},{"name":"Gravalanch","aliase":"Graveler","image":"https://www.pokepedia.fr/images/a/a5/Gravalanch-RFVF.png"},{"name":"Grodoudou","aliase":"Wigglytuff","image":"https://www.pokepedia.fr/images/7/7e/Grodoudou-RFVF.png"},{"name":"Grolem","aliase":"Golem","image":"https://www.pokepedia.fr/images/a/a3/Grolem-RFVF.png"},{"name":"Grotadmorv","aliase":"Muk","image":"https://www.pokepedia.fr/images/8/8f/Grotadmorv-RFVF.png"},{"name":"Herbizarre","aliase":"Ivysaur","image":"https://www.pokepedia.fr/images/4/44/Herbizarre-RFVF.png"},{"name":"Hypnomade","aliase":"Hypno","image":"https://www.pokepedia.fr/images/3/3a/Hypnomade-RFVF.png"},{"name":"Hypoc%C3%A9an","aliase":"Seadra","image":"https://www.pokepedia.fr/images/f/fc/Hypoc%C3%A9an-RFVF.png"},{"name":"Hypotrempe","aliase":"Horsea","image":"https://www.pokepedia.fr/images/3/3e/Hypotrempe-RFVF.png"},{"name":"Ins%C3%A9cateur","aliase":"Scyther","image":"https://www.pokepedia.fr/images/a/a4/Ins%C3%A9cateur-RFVF.png"},{"name":"Kabuto","aliase":"Kabuto","image":"https://www.pokepedia.fr/images/5/57/Kabuto-RFVF.png"},{"name":"Kabutops","aliase":"Kabutops","image":"https://www.pokepedia.fr/images/3/35/Kabutops-RFVF.png"},{"name":"Kadabra","aliase":"Kadabra","image":"https://www.pokepedia.fr/images/6/6f/Kadabra-RFVF.png"},{"name":"Kangourex","aliase":"Kangaskhan","image":"https://www.pokepedia.fr/images/7/78/Kangourex-RFVF.png"},{"name":"Kicklee","aliase":"Hitmonlee","image":"https://www.pokepedia.fr/images/e/e7/Kicklee-RFVF.png"},{"name":"Kokiyas","aliase":"Shellder","image":"https://www.pokepedia.fr/images/e/eb/Kokiyas-RFVF.png"},{"name":"Krabboss","aliase":"Kingler","image":"https://www.pokepedia.fr/images/5/55/Krabboss-RFVF.png"},{"name":"Krabby","aliase":"Krabby","image":"https://www.pokepedia.fr/images/e/ed/Krabby-RFVF.png"},{"name":"Lamantine","aliase":"Dewgong","image":"https://www.pokepedia.fr/images/9/93/Lamantine-RFVF.png"},{"name":"Leveinard","aliase":"Chansey","image":"https://www.pokepedia.fr/images/9/96/Leveinard-RFVF.png"},{"name":"L%C3%A9viator","aliase":"Gyarados","image":"https://www.pokepedia.fr/images/f/f2/L%C3%A9viator-RFVF.png"},{"name":"Lippoutou","aliase":"Jynx","image":"https://www.pokepedia.fr/images/4/44/Lippoutou-RFVF.png"},{"name":"Lokhlass","aliase":"Lapras","image":"https://www.pokepedia.fr/images/4/4d/Lokhlass-RFVF.png"},{"name":"M._Mime","aliase":"Mr. Mime","image":"https://www.pokepedia.fr/images/3/3b/M._Mime-RFVF.png"},{"name":"Machoc","aliase":"Machop","image":"https://www.pokepedia.fr/images/7/75/Machoc-RFVF.png"},{"name":"Machopeur","aliase":"Machoke","image":"https://www.pokepedia.fr/images/c/cf/Machopeur-RFVF.png"},{"name":"Mackogneur","aliase":"Machamp","image":"https://www.pokepedia.fr/images/e/ee/Mackogneur-RFVF.png"},{"name":"Magicarpe","aliase":"Magikarp","image":"https://www.pokepedia.fr/images/0/06/Magicarpe-RFVF.png"},{"name":"Magmar","aliase":"Magmar","image":"https://www.pokepedia.fr/images/8/8d/Magmar-RFVF.png"},{"name":"Magn%C3%A9ti","aliase":"Magnemite","image":"https://www.pokepedia.fr/images/b/b9/Magn%C3%A9ti-RFVF.png"},{"name":"Magn%C3%A9ton","aliase":"Magneton","image":"https://www.pokepedia.fr/images/3/36/Magn%C3%A9ton-RFVF.png"},{"name":"M%C3%A9lodelfe","aliase":"Clefable","image":"https://www.pokepedia.fr/images/3/3f/M%C3%A9lodelfe-RFVF.png"},{"name":"M%C3%A9lof%C3%A9e","aliase":"Clefairy","image":"https://www.pokepedia.fr/images/4/4d/M%C3%A9lof%C3%A9e-RFVF.png"},{"name":"M%C3%A9tamorph","aliase":"Ditto","image":"https://www.pokepedia.fr/images/e/e3/M%C3%A9tamorph-RFVF.png"},{"name":"Mew","aliase":"Mew","image":"https://www.pokepedia.fr/images/e/e6/Mew-RFVF.png"},{"name":"Mewtwo","aliase":"Mewtwo","image":"https://www.pokepedia.fr/images/d/db/Mewtwo-RFVF.png"},{"name":"Miaouss","aliase":"Meowth","image":"https://www.pokepedia.fr/images/b/b8/Miaouss-RFVF.png"},{"name":"Mimitoss","aliase":"Venonat","image":"https://www.pokepedia.fr/images/a/a5/Mimitoss-RFVF.png"},{"name":"Minidraco","aliase":"Dratini","image":"https://www.pokepedia.fr/images/1/11/Minidraco-RFVF.png"},{"name":"Mystherbe","aliase":"Oddish","image":"https://www.pokepedia.fr/images/3/39/Mystherbe-RFVF.png"},{"name":"Nidoking","aliase":"Nidoking","image":"https://www.pokepedia.fr/images/5/5f/Nidoking-RFVF.png"},{"name":"Nidoqueen","aliase":"Nidoqueen","image":"https://www.pokepedia.fr/images/7/76/Nidoqueen-RFVF.png"},{"name":"Nidoran%E2%99%80","aliase":"Nidoran♀","image":"https://www.pokepedia.fr/images/c/ca/Nidoran%E2%99%80-RFVF.png"},{"name":"Nidoran%E2%99%82","aliase":"Nidoran♂","image":"https://www.pokepedia.fr/images/8/8e/Nidoran%E2%99%82-RFVF.png"},{"name":"Nidorina","aliase":"Nidorina","image":"https://www.pokepedia.fr/images/b/b5/Nidorina-RFVF.png"},{"name":"Nidorino","aliase":"Nidorino","image":"https://www.pokepedia.fr/images/1/1c/Nidorino-RFVF.png"},{"name":"Noadkoko","aliase":"Exeggutor","image":"https://www.pokepedia.fr/images/1/1f/Noadkoko-RFVF.png"},{"name":"Noeunoeuf","aliase":"Exeggcute","image":"https://www.pokepedia.fr/images/3/39/Noeunoeuf-RFVF.png"},{"name":"Nosferalto","aliase":"Golbat","image":"https://www.pokepedia.fr/images/6/64/Nosferalto-RFVF.png"},{"name":"Nosferapti","aliase":"Zubat","image":"https://www.pokepedia.fr/images/2/2b/Nosferapti-RFVF.png"},{"name":"Onix","aliase":"Onix","image":"https://www.pokepedia.fr/images/2/24/Onix-RFVF.png"},{"name":"Ortide","aliase":"Gloom","image":"https://www.pokepedia.fr/images/3/39/Ortide-RFVF.png"},{"name":"Ossatueur","aliase":"Marowak","image":"https://www.pokepedia.fr/images/3/39/Ossatueur-RFVF.png"},{"name":"Osselait","aliase":"Cubone","image":"https://www.pokepedia.fr/images/5/58/Osselait-RFVF.png"},{"name":"Otaria","aliase":"Seel","image":"https://www.pokepedia.fr/images/3/31/Otaria-RFVF.png"},{"name":"Papilusion","aliase":"Butterfree","image":"https://www.pokepedia.fr/images/8/83/Papilusion-RFVF.png"},{"name":"Paras","aliase":"Paras","image":"https://www.pokepedia.fr/images/5/52/Paras-RFVF.png"},{"name":"Parasect","aliase":"Parasect","image":"https://www.pokepedia.fr/images/5/55/Parasect-RFVF.png"},{"name":"Persian","aliase":"Persian","image":"https://www.pokepedia.fr/images/4/41/Persian-RFVF.png"},{"name":"Piafabec","aliase":"Spearow","image":"https://www.pokepedia.fr/images/7/7d/Piafabec-RFVF.png"},{"name":"Pikachu","aliase":"Pikachu","image":"https://www.pokepedia.fr/images/e/e7/Pikachu-RFVF.png"},{"name":"Poissir%C3%A8ne","aliase":"Goldeen","image":"https://www.pokepedia.fr/images/1/1f/Poissir%C3%A8ne-RFVF.png"},{"name":"Poissoroy","aliase":"Seaking","image":"https://www.pokepedia.fr/images/e/ed/Poissoroy-RFVF.png"},{"name":"Ponyta","aliase":"Ponyta","image":"https://www.pokepedia.fr/images/8/8f/Ponyta-RFVF.png"},{"name":"Porygon","aliase":"Porygon","image":"https://www.pokepedia.fr/images/0/01/Porygon-RFVF.png"},{"name":"Psykokwak","aliase":"Psyduck","image":"https://www.pokepedia.fr/images/4/44/Psykokwak-RFVF.png"},{"name":"Pt%C3%A9ra","aliase":"Aerodactyl","image":"https://www.pokepedia.fr/images/3/34/Pt%C3%A9ra-RFVF.png"},{"name":"Ptitard","aliase":"Poliwag","image":"https://www.pokepedia.fr/images/4/4b/Ptitard-RFVF.png"},{"name":"Pyroli","aliase":"Flareon","image":"https://www.pokepedia.fr/images/6/64/Pyroli-RFVF.png"},{"name":"Racaillou","aliase":"Geodude","image":"https://www.pokepedia.fr/images/b/b2/Racaillou-RFVF.png"},{"name":"Rafflesia","aliase":"Vileplume","image":"https://www.pokepedia.fr/images/c/cd/Rafflesia-RFVF.png"},{"name":"Raichu","aliase":"Raichu","image":"https://www.pokepedia.fr/images/7/7d/Raichu-RFVF.png"},{"name":"Ramoloss","aliase":"Slowpoke","image":"https://www.pokepedia.fr/images/5/5a/Ramoloss-RFVF.png"},{"name":"Rapasdepic","aliase":"Fearow","image":"https://www.pokepedia.fr/images/f/f2/Rapasdepic-RFVF.png"},{"name":"Rattata","aliase":"Rattata","image":"https://www.pokepedia.fr/images/9/9e/Rattata-RFVF.png"},{"name":"Rattatac","aliase":"Raticate","image":"https://www.pokepedia.fr/images/9/98/Rattatac-RFVF.png"},{"name":"Reptincel","aliase":"Charmeleon","image":"https://www.pokepedia.fr/images/6/64/Reptincel-RFVF.png"},{"name":"Rhinocorne","aliase":"Rhyhorn","image":"https://www.pokepedia.fr/images/a/a1/Rhinocorne-RFVF.png"},{"name":"Rhinof%C3%A9ros","aliase":"Rhydon","image":"https://www.pokepedia.fr/images/8/80/Rhinof%C3%A9ros-RFVF.png"},{"name":"Rondoudou","aliase":"Jigglypuff","image":"https://www.pokepedia.fr/images/c/cd/Rondoudou-RFVF.png"},{"name":"Ronflex","aliase":"Snorlax","image":"https://www.pokepedia.fr/images/2/2b/Ronflex-RFVF.png"},{"name":"Roucarnage","aliase":"Pidgeot","image":"https://www.pokepedia.fr/images/d/d8/Roucarnage-RFVF.png"},{"name":"Roucool","aliase":"Pidgey","image":"https://www.pokepedia.fr/images/9/94/Roucool-RFVF.png"},{"name":"Roucoups","aliase":"Pidgeotto","image":"https://www.pokepedia.fr/images/d/dc/Roucoups-RFVF.png"},{"name":"Sabelette","aliase":"Sandshrew","image":"https://www.pokepedia.fr/images/6/66/Sabelette-RFVF.png"},{"name":"Sablaireau","aliase":"Sandslash","image":"https://www.pokepedia.fr/images/a/a1/Sablaireau-RFVF.png"},{"name":"Salam%C3%A8che","aliase":"Charmander","image":"https://www.pokepedia.fr/images/8/89/Salam%C3%A8che-RFVF.png"},{"name":"Saquedeneu","aliase":"Tangela","image":"https://www.pokepedia.fr/images/d/dc/Saquedeneu-RFVF.png"},{"name":"Scarabrute","aliase":"Pinsir","image":"https://www.pokepedia.fr/images/9/92/Scarabrute-RFVF.png"},{"name":"Smogo","aliase":"Koffing","image":"https://www.pokepedia.fr/images/5/53/Smogo-RFVF.png"},{"name":"Smogogo","aliase":"Weezing","image":"https://www.pokepedia.fr/images/3/38/Smogogo-RFVF.png"},{"name":"Soporifik","aliase":"Drowzee","image":"https://www.pokepedia.fr/images/9/94/Soporifik-RFVF.png"},{"name":"Spectrum","aliase":"Haunter","image":"https://www.pokepedia.fr/images/0/09/Spectrum-RFVF.png"},{"name":"Stari","aliase":"Staryu","image":"https://www.pokepedia.fr/images/3/34/Stari-RFVF.png"},{"name":"Staross","aliase":"Starmie","image":"https://www.pokepedia.fr/images/8/85/Staross-RFVF.png"},{"name":"Sulfura","aliase":"Moltres","image":"https://www.pokepedia.fr/images/6/67/Sulfura-RFVF.png"},{"name":"Tadmorv","aliase":"Grimer","image":"https://www.pokepedia.fr/images/9/9c/Tadmorv-RFVF.png"},{"name":"Tartard","aliase":"Poliwrath","image":"https://www.pokepedia.fr/images/3/38/Tartard-RFVF.png"},{"name":"Taupiqueur","aliase":"Diglett","image":"https://www.pokepedia.fr/images/a/aa/Taupiqueur-RFVF.png"},{"name":"Tauros","aliase":"Tauros","image":"https://www.pokepedia.fr/images/4/48/Tauros-RFVF.png"},{"name":"Tentacool","aliase":"Tentacool","image":"https://www.pokepedia.fr/images/d/de/Tentacool-RFVF.png"},{"name":"Tentacruel","aliase":"Tentacruel","image":"https://www.pokepedia.fr/images/1/1c/Tentacruel-RFVF.png"},{"name":"T%C3%AAtarte","aliase":"Poliwhirl","image":"https://www.pokepedia.fr/images/5/54/T%C3%AAtarte-RFVF.png"},{"name":"Tortank","aliase":"Blastoise","image":"https://www.pokepedia.fr/images/2/24/Tortank-RFVF.png"},{"name":"Tortank_Gigamax","aliase":"Gigantamax Blastoise","image":"https://www.pokepedia.fr/images/e/e3/Tortank_%28Gigamax%29-EB.png"},{"name":"Triopikeur","aliase":"Dugtrio","image":"https://www.pokepedia.fr/images/8/85/Triopikeur-RFVF.png"},{"name":"Tygnon","aliase":"Hitmonchan","image":"https://www.pokepedia.fr/images/9/9c/Tygnon-RFVF.png"},{"name":"Voltali","aliase":"Jolteon","image":"https://www.pokepedia.fr/images/8/89/Voltali-RFVF.png"},{"name":"Voltorbe","aliase":"Voltorb","image":"https://www.pokepedia.fr/images/5/59/Voltorbe-RFVF.png"}]
+[
+    {
+        "name": "Abo",
+        "aliase": "Ekans",
+        "image": "https://www.pokepedia.fr/images/5/56/Abo-RFVF.png"
+    },
+    {
+        "name": "Abra",
+        "aliase": "Abra",
+        "image": "https://www.pokepedia.fr/images/3/36/Abra-RFVF.png"
+    },
+    {
+        "name": "Aéromite",
+        "aliase": "Venomoth",
+        "image": "https://www.pokepedia.fr/images/0/0f/A%C3%A9romite-RFVF.png"
+    },
+    {
+        "name": "Akwakwak",
+        "aliase": "Golduck",
+        "image": "https://www.pokepedia.fr/images/6/6e/Akwakwak-RFVF.png"
+    },
+    {
+        "name": "Alakazam",
+        "aliase": "Alakazam",
+        "image": "https://www.pokepedia.fr/images/6/68/Alakazam-RFVF.png"
+    },
+    {
+        "name": "Amonistar",
+        "aliase": "Omastar",
+        "image": "https://www.pokepedia.fr/images/f/f2/Amonistar-RFVF.png"
+    },
+    {
+        "name": "Amonita",
+        "aliase": "Omanyte",
+        "image": "https://www.pokepedia.fr/images/8/83/Amonita-RFVF.png"
+    },
+    {
+        "name": "Aquali",
+        "aliase": "Vaporeon",
+        "image": "https://www.pokepedia.fr/images/6/6b/Aquali-RFVF.png"
+    },
+    {
+        "name": "Arbok",
+        "aliase": "Arbok",
+        "image": "https://www.pokepedia.fr/images/7/7f/Arbok-RFVF.png"
+    },
+    {
+        "name": "Arcanin",
+        "aliase": "Arcanine",
+        "image": "https://www.pokepedia.fr/images/7/7e/Arcanin-RFVF.png"
+    },
+    {
+        "name": "Artikodin",
+        "aliase": "Articuno",
+        "image": "https://www.pokepedia.fr/images/b/bb/Artikodin-RFVF.png"
+    },
+    {
+        "name": "Aspicot",
+        "aliase": "Weedle",
+        "image": "https://www.pokepedia.fr/images/9/9b/Aspicot-RFVF.png"
+    },
+    {
+        "name": "Boustiflor",
+        "aliase": "Weepinbell",
+        "image": "https://www.pokepedia.fr/images/f/f5/Boustiflor-RFVF.png"
+    },
+    {
+        "name": "Bulbizarre",
+        "aliase": "Bulbasaur",
+        "image": "https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png"
+    },
+    {
+        "name": "Projet:Bulbizarre",
+        "aliase": "Bulbasaur",
+        "image": "https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png"
+    },
+    {
+        "name": "Projet:Bulbizarre/2",
+        "aliase": "Bulbasaur",
+        "image": "https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png"
+    },
+    {
+        "name": "Canarticho",
+        "aliase": "Farfetch’d",
+        "image": "https://www.pokepedia.fr/images/0/07/Canarticho-RFVF.png"
+    },
+    {
+        "name": "Caninos",
+        "aliase": "Growlithe",
+        "image": "https://www.pokepedia.fr/images/e/e2/Caninos-RFVF.png"
+    },
+    {
+        "name": "Carabaffe",
+        "aliase": "Wartortle",
+        "image": "https://www.pokepedia.fr/images/2/2a/Carabaffe-RFVF.png"
+    },
+    {
+        "name": "Carapuce",
+        "aliase": "Squirtle",
+        "image": "https://www.pokepedia.fr/images/c/cc/Carapuce-RFVF.png"
+    },
+    {
+        "name": "Chenipan",
+        "aliase": "Caterpie",
+        "image": "https://www.pokepedia.fr/images/c/c7/Chenipan-RFVF.png"
+    },
+    {
+        "name": "Chétiflor",
+        "aliase": "Bellsprout",
+        "image": "https://www.pokepedia.fr/images/f/f9/Ch%C3%A9tiflor-RFVF.png"
+    },
+    {
+        "name": "Chrysacier",
+        "aliase": "Metapod",
+        "image": "https://www.pokepedia.fr/images/6/6c/Chrysacier-RFVF.png"
+    },
+    {
+        "name": "Coconfort",
+        "aliase": "Kakuna",
+        "image": "https://www.pokepedia.fr/images/b/b6/Coconfort-RFVF.png"
+    },
+    {
+        "name": "Colossinge",
+        "aliase": "Primeape",
+        "image": "https://www.pokepedia.fr/images/d/df/Colossinge-RFVF.png"
+    },
+    {
+        "name": "Crustabri",
+        "aliase": "Cloyster",
+        "image": "https://www.pokepedia.fr/images/8/84/Crustabri-RFVF.png"
+    },
+    {
+        "name": "Dardargnan",
+        "aliase": "Beedrill",
+        "image": "https://www.pokepedia.fr/images/e/ee/Dardargnan-RFVF.png"
+    },
+    {
+        "name": "Dodrio",
+        "aliase": "Dodrio",
+        "image": "https://www.pokepedia.fr/images/2/2e/Dodrio-RFVF.png"
+    },
+    {
+        "name": "Doduo",
+        "aliase": "Doduo",
+        "image": "https://www.pokepedia.fr/images/2/2a/Doduo-RFVF.png"
+    },
+    {
+        "name": "Dracaufeu",
+        "aliase": "Charizard",
+        "image": "https://www.pokepedia.fr/images/1/17/Dracaufeu-RFVF.png"
+    },
+    {
+        "name": "Draco",
+        "aliase": "Dragonair",
+        "image": "https://www.pokepedia.fr/images/d/d1/Draco-RFVF.png"
+    },
+    {
+        "name": "Dracolosse",
+        "aliase": "Dragonite",
+        "image": "https://www.pokepedia.fr/images/8/87/Dracolosse-RFVF.png"
+    },
+    {
+        "name": "Ectoplasma",
+        "aliase": "Gengar",
+        "image": "https://www.pokepedia.fr/images/8/8d/Ectoplasma-RFVF.png"
+    },
+    {
+        "name": "Électhor",
+        "aliase": "Zapdos",
+        "image": "https://www.pokepedia.fr/images/8/81/%C3%89lecthor-RFVF.png"
+    },
+    {
+        "name": "Électrode",
+        "aliase": "Electrode",
+        "image": "https://www.pokepedia.fr/images/0/03/%C3%89lectrode-RFVF.png"
+    },
+    {
+        "name": "Élektek",
+        "aliase": "Electabuzz",
+        "image": "https://www.pokepedia.fr/images/1/18/%C3%89lektek-RFVF.png"
+    },
+    {
+        "name": "Empiflor",
+        "aliase": "Victreebel",
+        "image": "https://www.pokepedia.fr/images/4/41/Empiflor-RFVF.png"
+    },
+    {
+        "name": "Évoli",
+        "aliase": "Eevee",
+        "image": "https://www.pokepedia.fr/images/8/8b/%C3%89voli-RFVF.png"
+    },
+    {
+        "name": "Excelangue",
+        "aliase": "Lickitung",
+        "image": "https://www.pokepedia.fr/images/7/74/Excelangue-RFVF.png"
+    },
+    {
+        "name": "Fantominus",
+        "aliase": "Gastly",
+        "image": "https://www.pokepedia.fr/images/9/9f/Fantominus-RFVF.png"
+    },
+    {
+        "name": "Férosinge",
+        "aliase": "Mankey",
+        "image": "https://www.pokepedia.fr/images/8/8e/F%C3%A9rosinge-RFVF.png"
+    },
+    {
+        "name": "Feunard",
+        "aliase": "Ninetales",
+        "image": "https://www.pokepedia.fr/images/0/0c/Feunard-RFVF.png"
+    },
+    {
+        "name": "Flagadoss",
+        "aliase": "Slowbro",
+        "image": "https://www.pokepedia.fr/images/b/b4/Flagadoss-RFVF.png"
+    },
+    {
+        "name": "Florizarre",
+        "aliase": "Venusaur",
+        "image": "https://www.pokepedia.fr/images/4/42/Florizarre-RFVF.png"
+    },
+    {
+        "name": "Florizarre_Gigamax",
+        "aliase": "Gigantamax Venusaur",
+        "image": "https://www.pokepedia.fr/images/2/2e/Florizarre_%28Gigamax%29-EB.png"
+    },
+    {
+        "name": "Galopa",
+        "aliase": "Rapidash",
+        "image": "https://www.pokepedia.fr/images/9/9c/Galopa-RFVF.png"
+    },
+    {
+        "name": "Goupix",
+        "aliase": "Vulpix",
+        "image": "https://www.pokepedia.fr/images/f/f6/Goupix-RFVF.png"
+    },
+    {
+        "name": "Gravalanch",
+        "aliase": "Graveler",
+        "image": "https://www.pokepedia.fr/images/a/a5/Gravalanch-RFVF.png"
+    },
+    {
+        "name": "Grodoudou",
+        "aliase": "Wigglytuff",
+        "image": "https://www.pokepedia.fr/images/7/7e/Grodoudou-RFVF.png"
+    },
+    {
+        "name": "Grolem",
+        "aliase": "Golem",
+        "image": "https://www.pokepedia.fr/images/a/a3/Grolem-RFVF.png"
+    },
+    {
+        "name": "Grotadmorv",
+        "aliase": "Muk",
+        "image": "https://www.pokepedia.fr/images/8/8f/Grotadmorv-RFVF.png"
+    },
+    {
+        "name": "Herbizarre",
+        "aliase": "Ivysaur",
+        "image": "https://www.pokepedia.fr/images/4/44/Herbizarre-RFVF.png"
+    },
+    {
+        "name": "Hypnomade",
+        "aliase": "Hypno",
+        "image": "https://www.pokepedia.fr/images/3/3a/Hypnomade-RFVF.png"
+    },
+    {
+        "name": "Hypocéan",
+        "aliase": "Seadra",
+        "image": "https://www.pokepedia.fr/images/f/fc/Hypoc%C3%A9an-RFVF.png"
+    },
+    {
+        "name": "Hypotrempe",
+        "aliase": "Horsea",
+        "image": "https://www.pokepedia.fr/images/3/3e/Hypotrempe-RFVF.png"
+    },
+    {
+        "name": "Insécateur",
+        "aliase": "Scyther",
+        "image": "https://www.pokepedia.fr/images/a/a4/Ins%C3%A9cateur-RFVF.png"
+    },
+    {
+        "name": "Kabuto",
+        "aliase": "Kabuto",
+        "image": "https://www.pokepedia.fr/images/5/57/Kabuto-RFVF.png"
+    },
+    {
+        "name": "Kabutops",
+        "aliase": "Kabutops",
+        "image": "https://www.pokepedia.fr/images/3/35/Kabutops-RFVF.png"
+    },
+    {
+        "name": "Kadabra",
+        "aliase": "Kadabra",
+        "image": "https://www.pokepedia.fr/images/6/6f/Kadabra-RFVF.png"
+    },
+    {
+        "name": "Kangourex",
+        "aliase": "Kangaskhan",
+        "image": "https://www.pokepedia.fr/images/7/78/Kangourex-RFVF.png"
+    },
+    {
+        "name": "Kicklee",
+        "aliase": "Hitmonlee",
+        "image": "https://www.pokepedia.fr/images/e/e7/Kicklee-RFVF.png"
+    },
+    {
+        "name": "Kokiyas",
+        "aliase": "Shellder",
+        "image": "https://www.pokepedia.fr/images/e/eb/Kokiyas-RFVF.png"
+    },
+    {
+        "name": "Krabboss",
+        "aliase": "Kingler",
+        "image": "https://www.pokepedia.fr/images/5/55/Krabboss-RFVF.png"
+    },
+    {
+        "name": "Krabby",
+        "aliase": "Krabby",
+        "image": "https://www.pokepedia.fr/images/e/ed/Krabby-RFVF.png"
+    },
+    {
+        "name": "Lamantine",
+        "aliase": "Dewgong",
+        "image": "https://www.pokepedia.fr/images/9/93/Lamantine-RFVF.png"
+    },
+    {
+        "name": "Leveinard",
+        "aliase": "Chansey",
+        "image": "https://www.pokepedia.fr/images/9/96/Leveinard-RFVF.png"
+    },
+    {
+        "name": "Léviator",
+        "aliase": "Gyarados",
+        "image": "https://www.pokepedia.fr/images/f/f2/L%C3%A9viator-RFVF.png"
+    },
+    {
+        "name": "Lippoutou",
+        "aliase": "Jynx",
+        "image": "https://www.pokepedia.fr/images/4/44/Lippoutou-RFVF.png"
+    },
+    {
+        "name": "Lokhlass",
+        "aliase": "Lapras",
+        "image": "https://www.pokepedia.fr/images/4/4d/Lokhlass-RFVF.png"
+    },
+    {
+        "name": "M._Mime",
+        "aliase": "Mr. Mime",
+        "image": "https://www.pokepedia.fr/images/3/3b/M._Mime-RFVF.png"
+    },
+    {
+        "name": "Machoc",
+        "aliase": "Machop",
+        "image": "https://www.pokepedia.fr/images/7/75/Machoc-RFVF.png"
+    },
+    {
+        "name": "Machopeur",
+        "aliase": "Machoke",
+        "image": "https://www.pokepedia.fr/images/c/cf/Machopeur-RFVF.png"
+    },
+    {
+        "name": "Mackogneur",
+        "aliase": "Machamp",
+        "image": "https://www.pokepedia.fr/images/e/ee/Mackogneur-RFVF.png"
+    },
+    {
+        "name": "Magicarpe",
+        "aliase": "Magikarp",
+        "image": "https://www.pokepedia.fr/images/0/06/Magicarpe-RFVF.png"
+    },
+    {
+        "name": "Magmar",
+        "aliase": "Magmar",
+        "image": "https://www.pokepedia.fr/images/8/8d/Magmar-RFVF.png"
+    },
+    {
+        "name": "Magnéti",
+        "aliase": "Magnemite",
+        "image": "https://www.pokepedia.fr/images/b/b9/Magn%C3%A9ti-RFVF.png"
+    },
+    {
+        "name": "Magnéton",
+        "aliase": "Magneton",
+        "image": "https://www.pokepedia.fr/images/3/36/Magn%C3%A9ton-RFVF.png"
+    },
+    {
+        "name": "Mélodelfe",
+        "aliase": "Clefable",
+        "image": "https://www.pokepedia.fr/images/3/3f/M%C3%A9lodelfe-RFVF.png"
+    },
+    {
+        "name": "Mélofée",
+        "aliase": "Clefairy",
+        "image": "https://www.pokepedia.fr/images/4/4d/M%C3%A9lof%C3%A9e-RFVF.png"
+    },
+    {
+        "name": "Métamorph",
+        "aliase": "Ditto",
+        "image": "https://www.pokepedia.fr/images/e/e3/M%C3%A9tamorph-RFVF.png"
+    },
+    {
+        "name": "Mew",
+        "aliase": "Mew",
+        "image": "https://www.pokepedia.fr/images/e/e6/Mew-RFVF.png"
+    },
+    {
+        "name": "Mewtwo",
+        "aliase": "Mewtwo",
+        "image": "https://www.pokepedia.fr/images/d/db/Mewtwo-RFVF.png"
+    },
+    {
+        "name": "Miaouss",
+        "aliase": "Meowth",
+        "image": "https://www.pokepedia.fr/images/b/b8/Miaouss-RFVF.png"
+    },
+    {
+        "name": "Mimitoss",
+        "aliase": "Venonat",
+        "image": "https://www.pokepedia.fr/images/a/a5/Mimitoss-RFVF.png"
+    },
+    {
+        "name": "Minidraco",
+        "aliase": "Dratini",
+        "image": "https://www.pokepedia.fr/images/1/11/Minidraco-RFVF.png"
+    },
+    {
+        "name": "Mystherbe",
+        "aliase": "Oddish",
+        "image": "https://www.pokepedia.fr/images/3/39/Mystherbe-RFVF.png"
+    },
+    {
+        "name": "Nidoking",
+        "aliase": "Nidoking",
+        "image": "https://www.pokepedia.fr/images/5/5f/Nidoking-RFVF.png"
+    },
+    {
+        "name": "Nidoqueen",
+        "aliase": "Nidoqueen",
+        "image": "https://www.pokepedia.fr/images/7/76/Nidoqueen-RFVF.png"
+    },
+    {
+        "name": "Nidoran♀",
+        "aliase": "Nidoran♀",
+        "image": "https://www.pokepedia.fr/images/c/ca/Nidoran%E2%99%80-RFVF.png"
+    },
+    {
+        "name": "Nidoran♂",
+        "aliase": "Nidoran♂",
+        "image": "https://www.pokepedia.fr/images/8/8e/Nidoran%E2%99%82-RFVF.png"
+    },
+    {
+        "name": "Nidorina",
+        "aliase": "Nidorina",
+        "image": "https://www.pokepedia.fr/images/b/b5/Nidorina-RFVF.png"
+    },
+    {
+        "name": "Nidorino",
+        "aliase": "Nidorino",
+        "image": "https://www.pokepedia.fr/images/1/1c/Nidorino-RFVF.png"
+    },
+    {
+        "name": "Noadkoko",
+        "aliase": "Exeggutor",
+        "image": "https://www.pokepedia.fr/images/1/1f/Noadkoko-RFVF.png"
+    },
+    {
+        "name": "Noeunoeuf",
+        "aliase": "Exeggcute",
+        "image": "https://www.pokepedia.fr/images/3/39/Noeunoeuf-RFVF.png"
+    },
+    {
+        "name": "Nosferalto",
+        "aliase": "Golbat",
+        "image": "https://www.pokepedia.fr/images/6/64/Nosferalto-RFVF.png"
+    },
+    {
+        "name": "Nosferapti",
+        "aliase": "Zubat",
+        "image": "https://www.pokepedia.fr/images/2/2b/Nosferapti-RFVF.png"
+    },
+    {
+        "name": "Onix",
+        "aliase": "Onix",
+        "image": "https://www.pokepedia.fr/images/2/24/Onix-RFVF.png"
+    },
+    {
+        "name": "Ortide",
+        "aliase": "Gloom",
+        "image": "https://www.pokepedia.fr/images/3/39/Ortide-RFVF.png"
+    },
+    {
+        "name": "Ossatueur",
+        "aliase": "Marowak",
+        "image": "https://www.pokepedia.fr/images/3/39/Ossatueur-RFVF.png"
+    },
+    {
+        "name": "Osselait",
+        "aliase": "Cubone",
+        "image": "https://www.pokepedia.fr/images/5/58/Osselait-RFVF.png"
+    },
+    {
+        "name": "Otaria",
+        "aliase": "Seel",
+        "image": "https://www.pokepedia.fr/images/3/31/Otaria-RFVF.png"
+    },
+    {
+        "name": "Papilusion",
+        "aliase": "Butterfree",
+        "image": "https://www.pokepedia.fr/images/8/83/Papilusion-RFVF.png"
+    },
+    {
+        "name": "Paras",
+        "aliase": "Paras",
+        "image": "https://www.pokepedia.fr/images/5/52/Paras-RFVF.png"
+    },
+    {
+        "name": "Parasect",
+        "aliase": "Parasect",
+        "image": "https://www.pokepedia.fr/images/5/55/Parasect-RFVF.png"
+    },
+    {
+        "name": "Persian",
+        "aliase": "Persian",
+        "image": "https://www.pokepedia.fr/images/4/41/Persian-RFVF.png"
+    },
+    {
+        "name": "Piafabec",
+        "aliase": "Spearow",
+        "image": "https://www.pokepedia.fr/images/7/7d/Piafabec-RFVF.png"
+    },
+    {
+        "name": "Pikachu",
+        "aliase": "Pikachu",
+        "image": "https://www.pokepedia.fr/images/e/e7/Pikachu-RFVF.png"
+    },
+    {
+        "name": "Poissirène",
+        "aliase": "Goldeen",
+        "image": "https://www.pokepedia.fr/images/1/1f/Poissir%C3%A8ne-RFVF.png"
+    },
+    {
+        "name": "Poissoroy",
+        "aliase": "Seaking",
+        "image": "https://www.pokepedia.fr/images/e/ed/Poissoroy-RFVF.png"
+    },
+    {
+        "name": "Ponyta",
+        "aliase": "Ponyta",
+        "image": "https://www.pokepedia.fr/images/8/8f/Ponyta-RFVF.png"
+    },
+    {
+        "name": "Porygon",
+        "aliase": "Porygon",
+        "image": "https://www.pokepedia.fr/images/0/01/Porygon-RFVF.png"
+    },
+    {
+        "name": "Psykokwak",
+        "aliase": "Psyduck",
+        "image": "https://www.pokepedia.fr/images/4/44/Psykokwak-RFVF.png"
+    },
+    {
+        "name": "Ptéra",
+        "aliase": "Aerodactyl",
+        "image": "https://www.pokepedia.fr/images/3/34/Pt%C3%A9ra-RFVF.png"
+    },
+    {
+        "name": "Ptitard",
+        "aliase": "Poliwag",
+        "image": "https://www.pokepedia.fr/images/4/4b/Ptitard-RFVF.png"
+    },
+    {
+        "name": "Pyroli",
+        "aliase": "Flareon",
+        "image": "https://www.pokepedia.fr/images/6/64/Pyroli-RFVF.png"
+    },
+    {
+        "name": "Racaillou",
+        "aliase": "Geodude",
+        "image": "https://www.pokepedia.fr/images/b/b2/Racaillou-RFVF.png"
+    },
+    {
+        "name": "Rafflesia",
+        "aliase": "Vileplume",
+        "image": "https://www.pokepedia.fr/images/c/cd/Rafflesia-RFVF.png"
+    },
+    {
+        "name": "Raichu",
+        "aliase": "Raichu",
+        "image": "https://www.pokepedia.fr/images/7/7d/Raichu-RFVF.png"
+    },
+    {
+        "name": "Ramoloss",
+        "aliase": "Slowpoke",
+        "image": "https://www.pokepedia.fr/images/5/5a/Ramoloss-RFVF.png"
+    },
+    {
+        "name": "Rapasdepic",
+        "aliase": "Fearow",
+        "image": "https://www.pokepedia.fr/images/f/f2/Rapasdepic-RFVF.png"
+    },
+    {
+        "name": "Rattata",
+        "aliase": "Rattata",
+        "image": "https://www.pokepedia.fr/images/9/9e/Rattata-RFVF.png"
+    },
+    {
+        "name": "Rattatac",
+        "aliase": "Raticate",
+        "image": "https://www.pokepedia.fr/images/9/98/Rattatac-RFVF.png"
+    },
+    {
+        "name": "Reptincel",
+        "aliase": "Charmeleon",
+        "image": "https://www.pokepedia.fr/images/6/64/Reptincel-RFVF.png"
+    },
+    {
+        "name": "Rhinocorne",
+        "aliase": "Rhyhorn",
+        "image": "https://www.pokepedia.fr/images/a/a1/Rhinocorne-RFVF.png"
+    },
+    {
+        "name": "Rhinoféros",
+        "aliase": "Rhydon",
+        "image": "https://www.pokepedia.fr/images/8/80/Rhinof%C3%A9ros-RFVF.png"
+    },
+    {
+        "name": "Rondoudou",
+        "aliase": "Jigglypuff",
+        "image": "https://www.pokepedia.fr/images/c/cd/Rondoudou-RFVF.png"
+    },
+    {
+        "name": "Ronflex",
+        "aliase": "Snorlax",
+        "image": "https://www.pokepedia.fr/images/2/2b/Ronflex-RFVF.png"
+    },
+    {
+        "name": "Roucarnage",
+        "aliase": "Pidgeot",
+        "image": "https://www.pokepedia.fr/images/d/d8/Roucarnage-RFVF.png"
+    },
+    {
+        "name": "Roucool",
+        "aliase": "Pidgey",
+        "image": "https://www.pokepedia.fr/images/9/94/Roucool-RFVF.png"
+    },
+    {
+        "name": "Roucoups",
+        "aliase": "Pidgeotto",
+        "image": "https://www.pokepedia.fr/images/d/dc/Roucoups-RFVF.png"
+    },
+    {
+        "name": "Sabelette",
+        "aliase": "Sandshrew",
+        "image": "https://www.pokepedia.fr/images/6/66/Sabelette-RFVF.png"
+    },
+    {
+        "name": "Sablaireau",
+        "aliase": "Sandslash",
+        "image": "https://www.pokepedia.fr/images/a/a1/Sablaireau-RFVF.png"
+    },
+    {
+        "name": "Salamèche",
+        "aliase": "Charmander",
+        "image": "https://www.pokepedia.fr/images/8/89/Salam%C3%A8che-RFVF.png"
+    },
+    {
+        "name": "Saquedeneu",
+        "aliase": "Tangela",
+        "image": "https://www.pokepedia.fr/images/d/dc/Saquedeneu-RFVF.png"
+    },
+    {
+        "name": "Scarabrute",
+        "aliase": "Pinsir",
+        "image": "https://www.pokepedia.fr/images/9/92/Scarabrute-RFVF.png"
+    },
+    {
+        "name": "Smogo",
+        "aliase": "Koffing",
+        "image": "https://www.pokepedia.fr/images/5/53/Smogo-RFVF.png"
+    },
+    {
+        "name": "Smogogo",
+        "aliase": "Weezing",
+        "image": "https://www.pokepedia.fr/images/3/38/Smogogo-RFVF.png"
+    },
+    {
+        "name": "Soporifik",
+        "aliase": "Drowzee",
+        "image": "https://www.pokepedia.fr/images/9/94/Soporifik-RFVF.png"
+    },
+    {
+        "name": "Spectrum",
+        "aliase": "Haunter",
+        "image": "https://www.pokepedia.fr/images/0/09/Spectrum-RFVF.png"
+    },
+    {
+        "name": "Stari",
+        "aliase": "Staryu",
+        "image": "https://www.pokepedia.fr/images/3/34/Stari-RFVF.png"
+    },
+    {
+        "name": "Staross",
+        "aliase": "Starmie",
+        "image": "https://www.pokepedia.fr/images/8/85/Staross-RFVF.png"
+    },
+    {
+        "name": "Sulfura",
+        "aliase": "Moltres",
+        "image": "https://www.pokepedia.fr/images/6/67/Sulfura-RFVF.png"
+    },
+    {
+        "name": "Tadmorv",
+        "aliase": "Grimer",
+        "image": "https://www.pokepedia.fr/images/9/9c/Tadmorv-RFVF.png"
+    },
+    {
+        "name": "Tartard",
+        "aliase": "Poliwrath",
+        "image": "https://www.pokepedia.fr/images/3/38/Tartard-RFVF.png"
+    },
+    {
+        "name": "Taupiqueur",
+        "aliase": "Diglett",
+        "image": "https://www.pokepedia.fr/images/a/aa/Taupiqueur-RFVF.png"
+    },
+    {
+        "name": "Tauros",
+        "aliase": "Tauros",
+        "image": "https://www.pokepedia.fr/images/4/48/Tauros-RFVF.png"
+    },
+    {
+        "name": "Tentacool",
+        "aliase": "Tentacool",
+        "image": "https://www.pokepedia.fr/images/d/de/Tentacool-RFVF.png"
+    },
+    {
+        "name": "Tentacruel",
+        "aliase": "Tentacruel",
+        "image": "https://www.pokepedia.fr/images/1/1c/Tentacruel-RFVF.png"
+    },
+    {
+        "name": "Têtarte",
+        "aliase": "Poliwhirl",
+        "image": "https://www.pokepedia.fr/images/5/54/T%C3%AAtarte-RFVF.png"
+    },
+    {
+        "name": "Tortank",
+        "aliase": "Blastoise",
+        "image": "https://www.pokepedia.fr/images/2/24/Tortank-RFVF.png"
+    },
+    {
+        "name": "Tortank_Gigamax",
+        "aliase": "Gigantamax Blastoise",
+        "image": "https://www.pokepedia.fr/images/e/e3/Tortank_%28Gigamax%29-EB.png"
+    },
+    {
+        "name": "Triopikeur",
+        "aliase": "Dugtrio",
+        "image": "https://www.pokepedia.fr/images/8/85/Triopikeur-RFVF.png"
+    },
+    {
+        "name": "Tygnon",
+        "aliase": "Hitmonchan",
+        "image": "https://www.pokepedia.fr/images/9/9c/Tygnon-RFVF.png"
+    },
+    {
+        "name": "Voltali",
+        "aliase": "Jolteon",
+        "image": "https://www.pokepedia.fr/images/8/89/Voltali-RFVF.png"
+    },
+    {
+        "name": "Voltorbe",
+        "aliase": "Voltorb",
+        "image": "https://www.pokepedia.fr/images/5/59/Voltorbe-RFVF.png"
+    }
+]

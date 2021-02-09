@@ -25,11 +25,12 @@ const fs = require("fs");
 
     return { y };
   });
-  console.log(result);
+  //console.log(result);
 
   async function getData() {
     let pokemonsSrc = [];
     for (let i = 0; i < result.y.length; i++) {
+      console.log("Etape "+i+" / "+ result.y.length);
       const page = await browser.newPage();
       await page.goto(result.y[i]);
       const res = await page.evaluate(() => {
@@ -39,16 +40,16 @@ const fs = require("fs");
           .querySelector(".ficheinfo")
           .querySelectorAll("tr")[2]
           .querySelector("td").innerText;
-        console.log(englishName);
+        //console.log(englishName);
         return { src, englishName };
       });
-      console.log(res);
+      //console.log(res);
       const o = "https://www.pokepedia.fr/".length;
 
       const p = res.src.replace("thumb/", "");
       const j = p.split("/250px");
       pokemonsSrc.push({
-        name: result.y[i].slice(o),
+        name: decodeURI(result.y[i].slice(o)),
         aliase: res.englishName,
         image: j[0],
       });
@@ -56,7 +57,7 @@ const fs = require("fs");
     return pokemonsSrc;
   }
   getData().then((srcs) => {
-    console.log(srcs);
+    //console.log(srcs);
     const newPokemons = [...pokemons, ...srcs];
 
     fs.writeFileSync("./pokemons.json", JSON.stringify(newPokemons));
