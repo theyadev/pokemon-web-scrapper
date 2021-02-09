@@ -12,7 +12,7 @@ const fs = require("fs");
     let y = [];
     for (
       let i = 1;
-      i < document.querySelector(".mw-category").childNodes;
+      i < document.querySelector(".mw-category").childNodes.length;
       i++
     ) {
       document
